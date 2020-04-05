@@ -1,2 +1,2 @@
 # springbootdemoapp
-Spring boot rest demo with hibernate entity manager
+Spring boot CRUD rest app with jpa 
